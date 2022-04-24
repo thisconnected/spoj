@@ -22,3 +22,4 @@ add_compile_options(-Wextra)
 
 add_subdirectory(${CMAKE_CURRENT_LIST_DIR}/addrev)
 add_subdirectory(${CMAKE_CURRENT_LIST_DIR}/johnny)
+add_subdirectory(${CMAKE_CURRENT_LIST_DIR}/asseco)
